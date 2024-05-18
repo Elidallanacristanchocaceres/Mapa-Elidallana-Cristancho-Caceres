@@ -1,0 +1,24 @@
+body{
+    border: 6px solid black;
+    margin: 4px;
+    
+}
+
+.header-mapa{
+    font-size: 20px;
+    text-align: center;
+    color: blue;
+}
+
+.mapa {
+    display: flex;
+    justify-content: center;
+}
+
+.desarrollado{
+    font-size: 25px;
+    border: 6px solid black;
+    text-align: center;
+    margin: 6px;
+    background-color: deepskyblue;
+}
