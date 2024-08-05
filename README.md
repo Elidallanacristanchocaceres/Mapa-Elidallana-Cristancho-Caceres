@@ -32,4 +32,4 @@ En esta tabla te mostraremos los diferentes lugares turisticos.
 - Lago Calima
 
 Hecho por [Elidallana Cristancho] (https://github.com/Elidallanacristanchocaceres/Mapa-Elidallana-Cristancho-Caceres)
-# Gracias por entrar a la pagina, espero les haya sido de mucha ayuda no olvides darme tu punto bueno.
+# Espero les haya sido de mucha ayuda.
