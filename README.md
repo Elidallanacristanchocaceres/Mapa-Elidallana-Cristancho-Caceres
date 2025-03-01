@@ -31,5 +31,10 @@ En esta tabla te mostraremos los diferentes lugares turisticos.
 - Sevilla
 - Lago Calima
 
-Hecho por [Elidallana Cristancho] (https://github.com/Elidallanacristanchocaceres/Mapa-Elidallana-Cristancho-Caceres)
-# Espero les haya sido de mucha ayuda.
+____
+### 📬 Contacto
+- 📧 Correo electrónico: cristanchodayana062017@gmail.com
+
+- 💼 LinkedIn: [Elidallana Cristancho Caceres](https://www.linkedin.com/in/elidallanacristancho/)
+
+¡Gracias por ser parte de esta aventura! 🚀✨
